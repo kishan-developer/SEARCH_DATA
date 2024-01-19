@@ -1,0 +1,26 @@
+
+body{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+input{
+    width: 50%;
+    height: 60px;
+    padding-left: 20px;
+    font-size: 1.5rem;
+    outline: none;
+}
+
+table{
+    width: 100vw;
+    font-size: 1rem;
+}
+
+tr th,td{
+    /* margin:20px; */
+    padding: 5px 15px;
+    border:1px solid black;
+}
